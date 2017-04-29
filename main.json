@@ -1,0 +1,588 @@
+{
+  "libros":{
+    "1": {
+    "tipo": "Examen",
+    "titulo": "segundo examen parcial de algoritmos paralelos",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "algoritmos paralelos",
+    "fecha": "31 de julio 2015",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PaHRleVNHVV9fYjg/view?usp=sharing"
+  },
+  "2": {
+    "tipo": "silabus",
+    "titulo": "Calculo Numerico",
+    "carrera": "Teoria general de sistemas",
+    "curso": "Calculo Numerico",
+    "fecha": "02 de agosto 2003",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PYUx4NHVXd1ZmSlk/view?usp=sharing"
+  },
+  "3": {
+    "tipo": "practica",
+    "titulo": "Trabajo final de Base de Datos",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Base de datos",
+    "fecha": "15 de junio del 1015",
+    "univercidad": "UNJBG",
+    "url": "/error"
+  },
+  "4": {
+    "tipo": "trabajo",
+    "titulo": "Procesadores Core Duo",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Teoria general de sistemas",
+    "fecha": "03 de abril del 2003",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PaHpwc2xzaGtQdnM/view?usp=sharing"
+  },
+  "5": {
+    "tipo": "trabajo",
+    "titulo": "Monografia-Analizador lexico y semantico",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Compiladores",
+    "fecha": "03 de abril del 2015",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PWG1ZNGhac19YTXc/view?usp=sharing"
+  },
+  "6": {
+    "tipo": "trabajo",
+    "titulo": "Monografia-Geometria analitica y conic y geometrica A...",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Matematica I",
+    "fecha": "29 de abril del 2010",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PNjhIYVRPQk1sNnM/view?usp=sharing"
+  },
+  "7": {
+    "tipo": "trabajo",
+    "titulo": "Informe final carga electrica y ley de coulond",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Fisica I",
+    "fecha": "03 de junio del 2015",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-Pa2N1a0lqdVRBVE0/view?usp=sharing"
+  },
+  "8": {
+    "tipo": "trabajo",
+    "titulo": "Algoritmo de Dekker y Peterson",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Algoritmos paralelos",
+    "fecha": "31 de mayo del 2014",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-Pa2N1a0lqdVRBVE0/view?usp=sharing"
+  },
+  "9": {
+    "tipo": "silabus",
+    "titulo": "Dianmica de sistemas cuarto año",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Dinamica de sistemas",
+    "fecha": "10 de agosto 2015",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-Pem04QmstWjJ0c0U/view?usp=sharing"
+  },
+  "10": {
+    "tipo": "silabus",
+    "titulo": "Silabo-Ingenieria de software II",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Ingenieria de software II",
+    "fecha": "15 de agosto 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PUzJJUW5CdWR1bkE/view?usp=sharing"
+  },
+  "11": {
+    "tipo": "silabus",
+    "titulo": "Silabo-Sitemas de Informacion",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Sitemas de Informacion",
+    "fecha": "15 de junio 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PaXFHLUtlN0YtRFE/view?usp=sharing"
+  },
+  "12": {
+    "tipo": "Examen",
+    "titulo": "Examen final de fisica I",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Fisica I",
+    "fecha": "02 de julio 2015",
+    "univercidad": "U. San Martin de Porres",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PVUxXc21TMDNBcUU/view?usp=sharing"
+  },
+  "13": {
+    "tipo": "Examen",
+    "titulo": "Examen final Estadistica y probabilidad",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Estadistica y probabilidad",
+    "fecha": "02 de julio 2015",
+    "univercidad": "U. San Martin de Porres",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PTXFWY3pBdUhqckU/view?usp=sharing"
+  },
+  "14": {
+    "tipo": "Examen",
+    "titulo": "Examen final Algebra lineal",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "algebra lineal",
+    "fecha": "02 de abril 2014",
+    "univercidad": "U. San Martin de Porres",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PSzdvOHJmS2xvbXc/view?usp=sharing"
+  },
+  "15": {
+    "tipo": "Examen",
+    "titulo": "Examen final Calculo II",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Calculo II",
+    "fecha": "02 de julio 2015",
+    "univercidad": "U. San Martin de Porres",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PZmdCdEJ3MEpTZG8/view?usp=sharing"
+  },
+  "16": {
+    "tipo": "Examen",
+    "titulo": "Examen final Calculo I",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Calculo I",
+    "fecha": "02 de julio 2015",
+    "univercidad": "U. San Martin de Porres",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-POERtZUNxWmd2c00/view?usp=sharing"
+  },
+  "17": {
+    "tipo": "Examen",
+    "titulo": "Examen final Calculo I",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Calculo I",
+    "fecha": "02 de julio 2015",
+    "univercidad": "U. San Martin de Porres",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-POERtZUNxWmd2c00/view?usp=sharing"
+  },
+  "18": {
+    "tipo": "Examen",
+    "titulo": "Examen Legislacion de la informacion",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Legislacion de la informacion",
+    "fecha": "02 de junio 2015",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PanEtZEdoZEU0VWc/view?usp=sharing"
+  },
+  "19": {
+    "tipo": "Examen",
+    "titulo": "Examen Seguridad Informatica",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Seguridad informatica",
+    "fecha": "02 de junio 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PWW9ITmxfYVNnc28/view?usp=sharing"
+  },
+  "20": {
+    "tipo": "Examen",
+    "titulo": "Examen Auditaria de sistemas",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Auditaria de sistemas",
+    "fecha": "02 de junio 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PdjdwLVNoLXU1dW8/view?usp=sharing"
+  },
+  "21": {
+    "tipo": "Examen",
+    "titulo": "Examen-Seminario de etica y sociedad",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Seminario de etica y sociedad",
+    "fecha": "02 de junio 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PWlY2WUE5dl9PQ0E/view?usp=sharing"
+  },
+  "22": {
+    "tipo": "Examen",
+    "titulo": "Examen-Programacion paralela",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Programacion paralela",
+    "fecha": "02 de junio 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PTnEzRDVpX0dBX2M/view?usp=sharing"
+  },
+  "23": {
+    "tipo": "Examen",
+    "titulo": "Parcial de Base de daos",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Parcial de Base de Datos",
+    "fecha": "02 de junio 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-Pb2xYRVF0RzlHTVk/view?usp=sharing"
+  },
+  "24": {
+    "tipo": "Examen",
+    "titulo": "Parcial de algoritmos paralelos",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Algoritmos paralelos",
+    "fecha": "02 de mayo 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PeU14YWhCX3RDbEk/view?usp=sharing"
+  },
+  "25": {
+    "tipo": "silabus",
+    "titulo": "Silabo-Sistemas de Informacion",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Sistemas de Informacion",
+    "fecha": "15 de agosto 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PU1NpaGVTZURtNWc/view?usp=sharing"
+  },
+  "26": {
+    "tipo": "practica",
+    "titulo": "Practica-I Fisica",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Fisica",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PVkstUU5adzBSdWM/view?usp=sharing"
+  },
+  "27": {
+    "tipo": "practica",
+    "titulo": "Practica-II Fisica",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Fisica",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-Pa183bjE0UE9CY2M/view?usp=sharing"
+  },
+  "28": {
+    "tipo": "practica",
+    "titulo": "Practica-III Fisica",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Fisica",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PWi1CMmNrRGRTVTg/view?usp=sharing"
+  },
+  "29": {
+    "tipo": "practica",
+    "titulo": "Practica-IV Fisica",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Fisica",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PalVlbGpfdWVFTEU/view?usp=sharing"
+  },
+  "30": {
+    "tipo": "practica",
+    "titulo": "Practica-I Calculo II",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Calculo II",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PQUFNbkhVdTdqeWs/view?usp=sharing"
+  },
+  "31": {
+    "tipo": "practica",
+    "titulo": "Practica-II Calculo II",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Calculo II",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PQzg2SmVIc3RNN0k/view?usp=sharing"
+  },
+  "32": {
+    "tipo": "practica",
+    "titulo": "Practica-III Calculo II",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Calculo III",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PQ0dsZklpT2ctZW8/view?usp=sharing"
+  },
+  "33": {
+    "tipo": "practica",
+    "titulo": "Practica-IV Calculo II",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Calculo II",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PY0RVbUtZQzBvOTQ/view?usp=sharing"
+  },
+  "34": {
+    "tipo": "practica",
+    "titulo": "Practica-V Calculo II",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Calculo II",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PeVVFbE1CcEdMV28/view?usp=sharing"
+  },
+  "35": {
+    "tipo": "practica",
+    "titulo": "Practica-V Fisica I",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Fisica I",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PUGFFcldGWFhvWmc/view?usp=sharing"
+  },
+  "36": {
+    "tipo": "practica",
+    "titulo": "Practica-I Calculo I",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Calculo I",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PWUsycExtc3d0Tk0/view?usp=sharing"
+  },
+  "37": {
+    "tipo": "practica",
+    "titulo": "Practica-II Calculo I",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Calculo I",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PQ3pMNDV6RmhuUFk/view?usp=sharing"
+  },
+  "38": {
+    "tipo": "practica",
+    "titulo": "Practica-III Calculo I",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Calculo I",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PYVkzcFBKRkRqdWc/view?usp=sharing"
+  },
+  "39": {
+    "tipo": "practica",
+    "titulo": "Practica-IV Calculo I",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Calculo I",
+    "fecha": "15 de junio del 2010",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PV1dxQXVXT3Q2aTg/view?usp=sharing"
+  },
+  "40": {
+    "tipo": "practica",
+    "titulo": "Practica-V Calculo I",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Calculo I",
+    "fecha": "15 de junio del 2010",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PcEpOZ1VMM2VHRUk/view?usp=sharing"
+  },
+  "41": {
+    "tipo": "practica",
+    "titulo": "Practica-I Algebra Lineal",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Algebra Lineal",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PMXpGWElCVWhYWHM/view?usp=sharing"
+  },
+  "42": {
+    "tipo": "practica",
+    "titulo": "Practica-II Algebra Lineal",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Algebra Lineal",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PT1NxbXRQcDF0cFk/view?usp=sharing"
+  },
+  "43": {
+    "tipo": "practica",
+    "titulo": "Practica-III Algebra Lineal",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Algebra Lineal",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PV2l5RmVyZ3V3aFk/view?usp=sharing"
+  },
+  "44": {
+    "tipo": "practica",
+    "titulo": "Practica-IV Algebra Lineal",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Algebra Lineal",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PenhzSkROQUx4Z00/view?usp=sharing"
+  },
+  "45": {
+    "tipo": "practica",
+    "titulo": "Practica-V Algebra Lineal",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Algebra Lineal",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PUzdIeXRPMk5SZUE/view?usp=sharing"
+  },
+  "46": {
+    "tipo": "practica",
+    "titulo": "Practica-I Matematica Discreta",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Matematica Discreta",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PY3p3c28xLURTb2s/view?usp=sharing"
+  },
+  "47": {
+    "tipo": "practica",
+    "titulo": "Practica-II Matematica Discreta",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Algebra Lineal",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PRGNJSXdHVEtQdlU/view?usp=sharing"
+  },
+  "48": {
+    "tipo": "practica",
+    "titulo": "Practica-III Matematica Discreta",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Matematica Discreta",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PbXY0QW9HMm05OG8/view?usp=sharing"
+  },
+  "49": {
+    "tipo": "practica",
+    "titulo": "Practica-IV Matematica Discreta",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Matematica Discreta",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PQVN4Y1JVYjYzY3M/view?usp=sharing"
+  },
+  "50": {
+    "tipo": "practica",
+    "titulo": "Practica-V Matematica Discreta",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Matematica Discreta",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PbV9xYmx0YW41RlE/view?usp=sharing"
+  },
+  "51": {
+    "tipo": "practica",
+    "titulo": "Practica-I Geometria Analitica",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Geometria Analitica",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PN3dwYmFndjgyNk0/view?usp=sharing"
+  },"52": {
+    "tipo": "practica",
+    "titulo": "Practica-II Geometria Analitica",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Geometria Analitica",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-Pei1HU1cxOG9XUUk/view?usp=sharing"
+  },
+  "53": {
+    "tipo": "practica",
+    "titulo": "Practica-III Geometria Analitica",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Geometria Analitica",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PMkc3WFJISTFzc00/view?usp=sharing"
+  },
+  "54": {
+    "tipo": "practica",
+    "titulo": "Practica-IV Geometria Analitica",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Geometria Analitica",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PSlpTdGpOQ3lKYk0/view?usp=sharing"
+  },
+  "55": {
+    "tipo": "practica",
+    "titulo": "Practica-V Geometria Analitica",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Geometria Analitica",
+    "fecha": "15 de junio del 2015",
+    "univercidad": "USMP",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PVTlvR3ZnaFVYZEU/view?usp=sharing"
+  },
+  "56": {
+    "tipo": "practica",
+    "titulo": "Analisis lexico con Flex",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Compiladores",
+    "fecha": "15 de junio del 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PaUdjOXRsU3l2QW8/view?usp=sharing"
+  },
+  "57": {
+    "tipo": "practica",
+    "titulo": "Anlizador lexico con C++",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Compiladores",
+    "fecha": "15 de junio del 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PN2VzNnhsSUo0Ykk/view?usp=sharing"
+  },
+  "58": {
+    "tipo": "practica",
+    "titulo": "Anlizador Sintactico con C++",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Compiladores",
+    "fecha": "15 de junio del 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PU1pDMTB1WG9QdnM/view?usp=sharing"
+  },
+  "59": {
+    "tipo": "practica",
+    "titulo": "Parctica de subneteo",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Comunicacion de datos",
+    "fecha": "15 de noviembre del 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PTVluNTJyd3JsSnc/view?usp=sharing"
+  },
+  "60": {
+    "tipo": "practica",
+    "titulo": "Parctica II-Analisis de estructura de realimentacion",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Compiladores",
+    "fecha": "15 de noviembre del 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PNzBLM21NV0hEOGc/view?usp=sharing"
+  },
+  "61": {
+    "tipo": "practica",
+    "titulo": "Practica V Dekker Sincronizacion-Peterson-exclusion...",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "algoritmos paralelos",
+    "fecha": "10 de agosto del 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PYV9JaEJwMkJXdFk/view?usp=sharing"
+  },
+  "62": {
+    "tipo": "practica",
+    "titulo": "Practica VIII Algoritmos paralelos",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "algoritmos paralelos",
+    "fecha": "10 de agosto del 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PdWowV2RVWDNWVjQ/view?usp=sharing"
+  },
+  "63": {
+    "tipo": "practica",
+    "titulo": "Practica VIV Dekker Sincronizacion-Peterson-exclusion...",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "algoritmos paralelos",
+    "fecha": "10 de agosto del 2016",
+    "univercidad": "UNJBG",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PbXFJRG4zS0N0UUU/view?usp=sharing"
+  },
+  "64": {
+    "tipo": "Examen",
+    "titulo": "Examen final Matematica Discreta",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Matematica discreta",
+    "fecha": "02 de julio 2015",
+    "univercidad": "U. San Martin de Porres",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-Pb1RJcXRHTkNfdEk/view?usp=sharing"
+  },
+  "65": {
+    "tipo": "Examen",
+    "titulo": "Examen final Geometria Analitica",
+    "carrera": "Ingenieria informatica y sistemas",
+    "curso": "Geometria Analitica",
+    "fecha": "02 de julio 2015",
+    "univercidad": "U. San Martin de Porres",
+    "url": "https://drive.google.com/file/d/0B01X3fzGJi-PRDNON1ZkSDlkRXc/view?usp=sharing"
+  }
+  }
+}

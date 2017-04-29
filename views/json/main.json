@@ -1,0 +1,34 @@
+{
+  "1": {
+    "tipo": "Examen",
+    "titulo": "Primer examen",
+    "carrera": "soy una carrera",
+    "curso": "soy un curso",
+    "fecha": "soy una fecha",
+    "url": "http//soyunaurl"
+  },
+  "2": {
+    "tipo": "silabus",
+    "titulo": "Primer silabus",
+    "carrera": "soy una carrera",
+    "curso": "soy un curso",
+    "fecha": "soy una fecha",
+    "url": "http//soyunaurl"
+  },
+  "3": {
+    "tipo": "practica",
+    "titulo": "Primera practica",
+    "carrera": "soy una carrera",
+    "curso": "soy un curso",
+    "fecha": "soy una fecha",
+    "url": "http//soyunaurl"
+  },
+  "4": {
+    "tipo": "trabajo",
+    "titulo": "Primer trabajo",
+    "carrera": "soy una carrera",
+    "curso": "soy un curso",
+    "fecha": "soy una fecha",
+    "url": "http//soyunaurl"
+  }
+}

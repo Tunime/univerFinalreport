@@ -1,0 +1,69 @@
+extends layout
+
+block content
+  nav
+    div.nav-wrapper.blue-grey.darken-2
+      a.brand-logo(href="#", title="univer")    UNIVER
+      a.button-collapse(href="#",data-activates="mobile-demo", title="title")
+        i.material-icons dehaze
+      ul.right.hide-on-med-and-down
+        li
+          a(href="/examenes", title="title") Examenes
+        li
+          a(href="/practicas", title="title") Practicas
+        li 
+          a(href="/silabus", title="title") Silabus
+        li 
+          a(href="/trabajos", title="title") Trabajos
+      ul.side-nav#mobile-demo
+        li
+          a(href="/examenes", title="title") Examenes 
+        li
+          a(href="/practicas", title="title") Practicas
+        li 
+          a(href="/silabus", title="title") Silabus
+        li
+          a(href="/trabajos", title="title") Trabajos
+  div.parallax-container
+    div.center-a
+      h3.white-text.titula
+      div.search-a
+        input(type="search", placeholder="Buscas algo ...")
+        a.search-button(href="#", title="search")
+          i.material-icons search
+      div.search-a-nav
+        div.contenedor-a
+          a(href="#", title="title") Metodos numericos 
+          a(href="#", title="title") Base de datos 
+          a(href="#", title="title") Estadistica 
+          a(href="#", title="title") Matematica I 
+        div.contenedor-a
+          a(href="#", title="title") Gesion Empresarial 
+          a(href="#", title="title") Telematica 
+    div.parallax   
+      img(src="/images/fondo-ji.png", alt="Fondo Univer")
+  
+  div.row
+    div.col.s12#cuerpo
+      div#contenido-a.col.s12.m6
+        h4.header Archivos
+      div.col.s12.m4
+        h4.header informacion
+        div.card.horizontal
+          div.card-stacked
+            div.card-content
+              p Univer es un proyecto el cual el único objetivo es que los alumnos practiquemos con exámenes pasados los exámenes son recibidos por los mismos alumnos. Desarrollado por alumnos para los mismos. Además de examenes tambien encontraras silabus, trabajos y parcticas
+              div.card-action
+                a(href="https://www.facebook.com/uninver/", title="facebook") Facebook
+  footer.page-footer.blue-grey.darken-2
+    div.container
+      div.row
+        div.col.offset-12.s12
+          h5.white-text links
+          ul
+            li
+              a.grey-text.text-lighten-3(href="https://www.facebook.com/uninver/", title="Facebook") Facebook
+    div.footer-copyright
+      div.container © 2017 Copyright univer
+        a.grey-text.text-lighten-4.right(href="https://www.facebook.com/alvaro.MoCab", title="Funder") Alvaro MOCA 
+      
